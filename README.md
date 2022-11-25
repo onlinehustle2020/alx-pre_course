@@ -1,1 +1,1 @@
-My first readme
+Shell Navigation project in ALX program.
